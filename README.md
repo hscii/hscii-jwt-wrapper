@@ -11,6 +11,7 @@ Lightweight Rust wrapper for JWT authentication in HSCII microservices. Simplifi
    worker = "0.0.18"
    hscii_auth_jwt = { git = "https://github.com/hscii/hscii-jwt-wrapper.git" }
    serde_json = "1.0"
+
    ...
    ```
 
